@@ -24,6 +24,6 @@
         "phpunit/phpunit": "^12.4"
     },
     "require": {
-        "illuminate/collections": "^12.41"
+        "illuminate/collections": "^12.0"
     }
 }

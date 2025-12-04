@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e6c0e1cf1305f5c6c3002d65c327e412",
+    "content-hash": "5afabcf83c8b03ba36078dd622814444",
     "packages": [
         {
             "name": "illuminate/collections",
