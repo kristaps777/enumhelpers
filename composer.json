@@ -1,0 +1,29 @@
+{
+    "name": "kristapsv/enumhelpers",
+    "description": "Helper functions for PHP enums",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kristapsv\\Enumhelpers\\": "src/"
+        }
+    },
+  "autoload-dev": {
+    "psr-4": {
+      "Kristapsv\\Enumhelpers\\Tests\\": "tests/"
+    }
+  },
+    "authors": [
+        {
+            "name": "di.kristapsv",
+            "email": "kristaps.vecvagars@di.lv"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^12.4"
+    },
+    "require": {
+        "illuminate/collections": "^12.41"
+    }
+}
